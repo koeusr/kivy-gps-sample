@@ -1,0 +1,4 @@
+bin/
+.buildozer/
+
+*.DS_Store
